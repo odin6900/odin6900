@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=odin6900&theme=tokyonight&no-frame=true&margin-w=15"/>
+# ⚡ ODIN SENPAI
 
-<br><br>
+### Reverse Engineer • Low-Level Developer • Network Analyst • Software Researcher
 
-<img src="https://github-readme-stats.vercel.app/api?username=odin6900&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odin6900&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=odin6900&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Reverse+Engineering+%26+Memory+Research;Network+Protocol+Analysis;Bot+Development+%26+Automation;Low-Level+Windows+Development;C%23+%7C+C%2B%2B+%7C+Python+%7C+TypeScript" />
 
 </div>
 
@@ -102,9 +98,9 @@ I am a developer focused on:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=odin6900&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odin6900&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
