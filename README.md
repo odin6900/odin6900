@@ -1,4 +1,4 @@
-# ⚡ !ODIN SENPAI!!
+# ⚡ ODIN SENPAI
 
 Reverse Engineer • Network Analyst • Developer
 
