@@ -9,4 +9,4 @@ Reverse Engineer • Network Analyst • Developer
 - Web Development
 
 ## Languages
-C# • C++ • Python • TypeScript • JavaScript • HTML
+C • C# • C++ • Python • TypeScript • JavaScript • HTML
